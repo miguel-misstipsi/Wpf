@@ -243,3 +243,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/ItemsControl/Window1.xaml.cs
+/ItemsControl/Window1.xaml
