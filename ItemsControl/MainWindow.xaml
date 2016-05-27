@@ -1,0 +1,13 @@
+﻿<Window x:Class="ItemsControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        Title="ItemsControlSample" Height="150" Width="200">
+    <ItemsControl>
+        <system:String>ItemsControl Item #1</system:String>
+        <system:String>ItemsControl Item #2</system:String>
+        <system:String>ItemsControl Item #3</system:String>
+        <system:String>ItemsControl Item #4</system:String>
+        <system:String>ItemsControl Item #5</system:String>
+    </ItemsControl>
+</Window>
