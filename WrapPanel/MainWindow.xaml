@@ -1,0 +1,13 @@
+﻿<Window x:Class="WrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="319" Width="421">
+    <WrapPanel Grid.Row="0" Grid.Column="0" Orientation="Vertical">
+        <Button Margin="10">Mango</Button>
+        <Button Margin="10">Apple</Button>
+        <Button Margin="10">Grape</Button>
+        <Button Margin="10">Banana</Button>
+        <Button Margin="10">Bilberry</Button>
+        <Button Margin="10">Lemon</Button>
+    </WrapPanel>
+</Window>
